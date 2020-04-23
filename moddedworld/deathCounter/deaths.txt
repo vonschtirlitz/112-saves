@@ -1,3 +1,3 @@
-#Wed Apr 22 01:10:59 PDT 2020
-C9s_Sneaky=6
-von_schtirlitz=15
+#Thu Apr 23 00:14:03 PDT 2020
+C9s_Sneaky=10
+von_schtirlitz=22

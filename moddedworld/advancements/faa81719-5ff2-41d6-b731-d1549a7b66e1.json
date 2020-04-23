@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "railcraft:tracks/rock_crusher": {
+    "criteria": {
+      "build": "2020-04-22 20:41:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-01-24 11:10:09 -0800"
@@ -625,6 +631,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2020-04-22 20:29:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -1199,6 +1211,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2020-04-22 22:02:54 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/blue_dye_from_bluebells": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -1402,6 +1420,12 @@
       "emerald": "2020-04-21 20:51:40 -0700"
     },
     "done": false
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2020-04-22 20:23:34 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
@@ -1787,9 +1811,11 @@
       "ice_flats": "2020-04-21 19:13:21 -0700",
       "swampland": "2020-01-22 19:36:07 -0800",
       "beaches": "2020-04-21 22:38:45 -0700",
+      "plains": "2020-04-22 21:23:55 -0700",
       "ice_mountains": "2020-04-21 22:35:28 -0700",
       "ocean": "2020-04-21 22:38:39 -0700",
       "extreme_hills": "2020-04-21 18:27:54 -0700",
+      "cold_beach": "2020-04-22 21:11:59 -0700",
       "river": "2020-01-24 10:45:33 -0800"
     },
     "done": false
@@ -2244,6 +2270,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2020-04-22 21:02:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -2526,6 +2558,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_cpu": {
+    "criteria": {
+      "c1k": "2020-04-22 22:18:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-01-22 19:35:13 -0800"
@@ -2676,6 +2714,12 @@
   "biomesoplenty:recipes/buildingblocks/sacred_oak_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2020-04-22 20:27:19 -0700"
     },
     "done": true
   },
@@ -3201,6 +3245,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/2_energetic_alloy_get": {
+    "criteria": {
+      "inv_changed-enderio:item_energetic_alloy": "2020-04-22 21:18:38 -0700"
+    },
+    "done": true
+  },
   "computercraft:recipes/generated/pocket_normal/computercraft_speaker": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -3270,6 +3320,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-01-24 11:10:08 -0800"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2020-04-22 22:25:21 -0700"
     },
     "done": true
   },
@@ -3717,6 +3773,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2020-04-22 22:07:52 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -3892,6 +3954,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2020-04-22 21:49:11 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -4018,6 +4086,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2020-04-22 21:45:44 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
@@ -4057,6 +4131,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2020-04-21 15:47:32 -0700"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/pattern_terminal": {
+    "criteria": {
+      "certus": "2020-04-22 22:09:04 -0700"
     },
     "done": true
   },
@@ -4315,6 +4395,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-01-22 19:46:04 -0800"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2020-04-22 22:49:35 -0700"
     },
     "done": true
   },
